@@ -1,3 +1,7 @@
+# demo
+
+![](https://cdn.builder.io/api/v1/image/assets%2F1ff9a071bbfc4d24bb12db379181baad%2Fca16f7fa7b0a43db8c02e69b3a4b4b41?width=2000)
+
 # Builder.io example with Solid
 
 See [App.jsx](./src/App.jsx) for usage
